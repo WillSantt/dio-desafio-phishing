@@ -29,8 +29,8 @@ O laboratório utiliza o Kali Linux e o Social-Engineer Toolkit (SEToolkit) para
 Os testes foram realizados em ambiente virtualizado e controlado, exclusivamente para fins educacionais.
 
 ## 📷 Evidências do Projeto
+<img width="1782" height="883" alt="Dark Terminal Parameter Output" src="https://github.com/user-attachments/assets/be604c5d-c566-4bea-bdc3-dd0b17ebf6cf" />
 
-As capturas de tela das etapas realizadas estão disponíveis na pasta `images/`.
 
 ## 📚 Aprendizados
 
